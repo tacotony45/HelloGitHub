@@ -1,0 +1,3 @@
+/Users/antonioanthonyowensjr./CLionProjects/GITHUB/cmake-build-debug/CMakeFiles/GITHUB.dir
+/Users/antonioanthonyowensjr./CLionProjects/GITHUB/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/antonioanthonyowensjr./CLionProjects/GITHUB/cmake-build-debug/CMakeFiles/rebuild_cache.dir
